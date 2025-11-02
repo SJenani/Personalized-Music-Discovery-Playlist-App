@@ -1,2 +1,2 @@
 # Personalized-Music-Discovery-Playlist-App
-(view on figma)[https://www.figma.com/make/lN7vi0TtkxJlnQRazYk5o3/User-Dashboard?node-id=0-1&p=f&t=cGWtkGBetmSjgWxd-0&fullscreen=1]
+[view in figma](https://www.figma.com/make/lN7vi0TtkxJlnQRazYk5o3/User-Dashboard?node-id=0-1&p=f&t=cGWtkGBetmSjgWxd-0&fullscreen=1)
